@@ -6,3 +6,5 @@
 ### git status
 - Visualiza as alterações que foram feitas desde o último commit realizado
 
+### git add
+- Adiciona um arquivo para a area de stagging pronto para o commit
